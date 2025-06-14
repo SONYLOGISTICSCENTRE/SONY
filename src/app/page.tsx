@@ -1,4 +1,4 @@
-import { CheckCircle, Globe, MapPin, Phone, Mail, Truck, Ship, Package, Users, Clock, Award, Star } from "lucide-react"
+import { CheckCircle, Globe, MapPin, Phone, Mail, Truck, Ship, Package, Users, Clock, Award} from "lucide-react"
 import Image from "next/image"
 import Link from "next/link"
 
